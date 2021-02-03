@@ -20,6 +20,10 @@
 *                                             *    
 * Vladimir Makarenkov                         *
 * University of Montreal, September 1999      *
+*                                             *
+* UPDATE                                      *
+* Nadia Tahiri                                *
+* University of Montreal, September 2017      *
 * --------------------------------------------*
 */
 
